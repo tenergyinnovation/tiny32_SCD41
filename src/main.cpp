@@ -1,5 +1,5 @@
 /***********************************************************************
- * Project      :     tiny32_SCG41
+ * Project      :     tiny32_SCD41
  * Description  :     this code is template source code Interface test
  *                    between tiny32 and The tiny32_SCD41 CO₂
  *                    Humidity and Temperature Sensor - SCD41 (Qwiic)
@@ -31,7 +31,7 @@ String version = "1.0";
 void header_print(void)
 {
     Serial.printf("\r\n***********************************************************************\r\n");
-    Serial.printf("* Project      :     tiny32_SCG41\r\n");
+    Serial.printf("* Project      :     tiny32_SCD41\r\n");
     Serial.printf("* Description  :     this code is template source code Interface test  \r\n");
     Serial.printf("*                    between tiny32 and The tiny32_SCD41 CO₂ Humidity and Temperature Sensor - SCD41 (Qwiic) \r\n");
     Serial.printf("* Hardware     :     tiny32_v4\r\n");
